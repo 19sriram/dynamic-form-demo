@@ -66,3 +66,27 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Modules to build
+
+  1) General form
+            Input should contain text, dropdown selection, checkbox and on submit should output as json
+  
+  2) Login form 
+             Form with google and custom login option. Should get username / mobile number & password as input
+             Reset password and forgot id option should be available
+  
+  3) CSV Uploader
+             Custom CSV uploader to be converted to table data and vice versa
+  
+  4) Drag and Drop place
+              Drag and drop holder should be available which returns filename, size, date and moving to temp folder
+              
+  5) License controller
+              To be checked whether version and license number match is there for the client else force logout should happen
+              
+  6) Table with editable content
+              Table should have editable rows and on click of submit data should change in json
+         
+             
+            
